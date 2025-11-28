@@ -3,10 +3,23 @@ body{
 
 background: white;
 }
-header[
+header{
+    border-bottom: solid 2px ( rgb(212, 87, 212))
+    padding: 20px
     
-]
+}
 
-p[
-    
-]
+p{
+    text-align: center;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
