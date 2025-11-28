@@ -1,7 +1,7 @@
 body{
- color: rgb(212, 87, 212);
+ color: rgb(235, 195, 235);
 
-background: white;
+background: rgb(170, 29, 201);
 }
 header{
     border-bottom: solid 2px ( rgb(212, 87, 212))
@@ -10,7 +10,10 @@ header{
 }
 .chamada{
     background: chartreuse
-    
+    padding-bottom:100px;
+    padding-top: 100px
+    display:flex
+    justify-content:center
 }
 
 p{
